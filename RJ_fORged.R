@@ -360,7 +360,7 @@ write.csv(Final.Output1, file = "inventoryOutputMonthly.csv", row.names = FALSE)
 Final.Output2<-cbind(sum(OptimaltotalMonthlyCost),sum(OptimalHoldingCost),mean(OptimalHoldingCost),sum(OptimalBackOrderCost),mean(OptimalBackOrderCost))
 Final.Output2<-data.frame(Final.Output2)
 names(Final.Output2)=c("Total.Inventory.Cost","Total.Holding.Cost","Avg.Holding.Cost","Total.Backorder.Cost","Avg.Backorder.Cost")
-write.csv(Final.Output2, file = "inventoryOutputSummary.csv")
+write.csv(Final.Output2, file = "inventoryOutputSummary.csv", row.names = FALSE)
 
 
 
