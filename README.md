@@ -1,6 +1,6 @@
 # fORged Contest 2019
 
-The goal of this project is to predict the demand and develop an inventory model to minimize the total cost of an inventory system. The dataset for this contest provides monthly demand for a hardware device for a period of 10 years from 1996 to 2005. The details of the contest can be found at the following [link](https://higherlogicdownload.s3-external-1.amazonaws.com/INFORMS/fORgedbyMachine-25.pdf?AWSAccessKeyId=AKIAVRDO7IEREB57R7MT&Expires=1570944482&Signature=3Pepc2GyV3GsrGFJjkFX0TfC7ow%3D).
+The goal of this project is to predict the demand and develop an inventory model to minimize the total cost of an inventory system. The dataset for this contest provides monthly demand for a hardware device for a period of 10 years from 1996 to 2005. The details of the contest can be found at [link](https://higherlogicdownload.s3-external-1.amazonaws.com/INFORMS/fORgedbyMachine-25.pdf?AWSAccessKeyId=AKIAVRDO7IEREB57R7MT&Expires=1570944482&Signature=3Pepc2GyV3GsrGFJjkFX0TfC7ow%3D).
 
 The dataset can be found at [link](https://sites.google.com/usc.edu/gomez/data)
 
